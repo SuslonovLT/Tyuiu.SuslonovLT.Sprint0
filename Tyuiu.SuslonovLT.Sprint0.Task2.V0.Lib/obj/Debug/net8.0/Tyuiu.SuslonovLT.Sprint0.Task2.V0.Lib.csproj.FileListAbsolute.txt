@@ -1,0 +1,11 @@
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\bin\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.deps.json
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\bin\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.dll
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\bin\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.pdb
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.AssemblyInfoInputs.cache
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.AssemblyInfo.cs
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.csproj.CoreCompileInputs.cache
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.dll
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\refint\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.dll
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.pdb
+G:\VS\Tyuiu.SuslonovLT.Sprint0\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib\obj\Debug\net8.0\ref\Tyuiu.SuslonovLT.Sprint0.Task2.V0.Lib.dll
